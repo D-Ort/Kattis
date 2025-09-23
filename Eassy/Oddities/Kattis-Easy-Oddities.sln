@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Kattis-Easy-Oddities", "Kattis-Easy-Oddities.vcxproj", "{BA002E50-5BC9-4958-AE67-C3509AC193E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA002E50-5BC9-4958-AE67-C3509AC193E2}.Debug|x64.ActiveCfg = Debug|x64
+		{BA002E50-5BC9-4958-AE67-C3509AC193E2}.Debug|x64.Build.0 = Debug|x64
+		{BA002E50-5BC9-4958-AE67-C3509AC193E2}.Debug|x86.ActiveCfg = Debug|Win32
+		{BA002E50-5BC9-4958-AE67-C3509AC193E2}.Debug|x86.Build.0 = Debug|Win32
+		{BA002E50-5BC9-4958-AE67-C3509AC193E2}.Release|x64.ActiveCfg = Release|x64
+		{BA002E50-5BC9-4958-AE67-C3509AC193E2}.Release|x64.Build.0 = Release|x64
+		{BA002E50-5BC9-4958-AE67-C3509AC193E2}.Release|x86.ActiveCfg = Release|Win32
+		{BA002E50-5BC9-4958-AE67-C3509AC193E2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51915FE5-5101-455A-8187-B256837D3696}
+	EndGlobalSection
+EndGlobal
